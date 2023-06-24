@@ -16,10 +16,9 @@ This is a simple weather forecasting application that retrieves and displays the
 
 1. Clone the repository:
 
-   ```bash
    git clone https://github.com/your_username/weather-forecast-app.git
-Install the required dependencies:
+## Install the required dependencies:
 pip install -r requirements.txt
-Run the application:
+## Run the application:
 streamlit run python_file path
 
