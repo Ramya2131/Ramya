@@ -1,3 +1,5 @@
+Readme file
+
 # Weather Forecasting App
 
 This is a simple weather forecasting application that retrieves and displays the current weather forecast for a given city. It leverages the OpenWeatherMap API to fetch weather data and provides the temperature, humidity, pressure, and weather description for the specified city.
